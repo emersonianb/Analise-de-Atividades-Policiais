@@ -1,5 +1,23 @@
 # Analise-de-Atividades-Policiais
+
 Análise de Atividades Policiais em Rhode Island, projeto realizado para a cadeira de Estatistica Aplicada a Computação
 
-A analise foi feita através de um notebook através np Jupyter Notebook com os dados poice.csv e weather.csv, e,
-consiste em um projeto realizado para a cadeira de Estatistica Aplicada a Computação do curso de Bacharelado em Engenharia da Computação, nele temos a analise de dados das ocorrencias registradas pela policia de Rhole Island.
+A analise foi feita através de um Jupyter Notebook com os dados police.csv e weather.csv.
+
+<table align="center">
+  <tr>
+    <th width=300> <h2> Linguagem </h2> </th>
+    <th width=300> <h2> Ferramenta </h2> </th>
+  </tr>
+  <tr>
+    <th width=300>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=60 height=90 />
+    </th>
+    <th width=300>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=60 height=90 />
+    </th>
+  </tr>
+
+</table>
+
+<hr>
